@@ -1,0 +1,2 @@
+./test/**/*Spec.js
+--require babel-core/register
